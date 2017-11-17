@@ -7,3 +7,4 @@ labels -- a list of 10000 numbers in the range 0-9. The number at index i indica
 label_names -- a 10-element list which gives meaningful names to the numeric labels in the labels array described above. For example, label_names[0] == "airplane", label_names[1] == "automobile", etc.
 
 Softmax Classifier - Accuracy - 25-30% - Simple Algorithm but already way better than guessing randomly
+Two Layer Neural Net - Accuracy - 45%
